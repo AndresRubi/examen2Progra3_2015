@@ -12,7 +12,7 @@
 #include "NodoBinario.h"
 
 using namespace std;
-int formato = 25;
+
 //Escribe los datos del objeto mascota dado en un archivo binario con el nombre dado en la posicion dada
 //Nota: Se deben poder agregar varias mascotas en un solo archivo
 void escribir(string nombre_archivo, Planeta*planeta, int posicion)
